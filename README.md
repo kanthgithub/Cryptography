@@ -18,7 +18,7 @@ Enter same passphrase again:
 Your identification has been saved in /c/study/Crypto/keygen/keypair.
 Your public key has been saved in /c/study/Crypto/keygen/keypair.pub.
 The key fingerprint is:
-SHA256:4CmtKkoA0Egwdbu1CHHiulKH8b7qG5QiEtXCVyVUk0Y 1556025@SGNPF0NVJV5
+SHA256:4CmtKkoA0Egwdbu1CHHiulKH8b7qG5QiEtXCVyVUk0Y TEST@SGZZF0NVJV6
 The key's randomart image is:
 +---[RSA 2048]----+
 |**=.oo++E.       |
