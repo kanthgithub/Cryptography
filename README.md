@@ -12,13 +12,13 @@ $ ssh-keygen -t rsa
 
 ```
 Generating public/private rsa key pair.
-Enter file in which to save the key (/c/Users/1556025/.ssh/id_rsa): /c/study/Crypto/keygen/keypair
+Enter file in which to save the key (/c/Users/tester/.ssh/id_rsa): /c/study/Crypto/keygen/keypair
 Enter passphrase (empty for no passphrase):
 Enter same passphrase again:
 Your identification has been saved in /c/study/Crypto/keygen/keypair.
 Your public key has been saved in /c/study/Crypto/keygen/keypair.pub.
 The key fingerprint is:
-SHA256:4CmtKkoA0Egwdbu1CHHiulKH8b7qG5QiEtXCVyVUk0Y TEST@SGZZF0NVJV6
+SHA256:4CmtKkoA0Egwdbu1CHHiulKH8b7qG5QiEtXCVyVUk0Y tester@SGZZF0NVJV6
 The key's randomart image is:
 +---[RSA 2048]----+
 |**=.oo++E.       |
