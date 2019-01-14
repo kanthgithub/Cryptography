@@ -4,7 +4,13 @@ All about cryptography and Crypto Algos and Providers
 ## SSH Key Generation on CentOS:
 
 ### Generation of public-private keyPair via ssh-keygen command: 
+```sh
 $ ssh-keygen -t rsa
+```
+
+- Command console Log:
+
+```
 Generating public/private rsa key pair.
 Enter file in which to save the key (/c/Users/1556025/.ssh/id_rsa): /c/study/Crypto/keygen/keypair
 Enter passphrase (empty for no passphrase):
@@ -25,6 +31,7 @@ The key's randomart image is:
 |+  o .           |
 |oo=o.            |
 +----[SHA256]-----+
+```
 
 ### Output files:
 - privateKey: keypair
